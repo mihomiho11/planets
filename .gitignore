@@ -2,3 +2,6 @@ a.csv
 b.csv
 c.csv
 results/
+
+*.csv
+results/
